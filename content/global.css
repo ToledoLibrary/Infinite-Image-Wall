@@ -1,0 +1,22 @@
+@charset "utf-8";
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+
+.gallery1DecHeader{
+	font-family:myFont, Arial;
+	font-size:22px;
+	margin:8px;
+	color:#666666;
+	font-weight:bold;
+}
+
+.gallery1DescP{
+	font-size:14px;
+	margin:8px;
+	margin-top:6px;
+	margin-bottom:6px;
+	color:#555555;
+	line-height:18px;
+}
